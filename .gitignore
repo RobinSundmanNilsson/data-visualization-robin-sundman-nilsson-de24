@@ -177,3 +177,5 @@ cython_debug/
 
 # 06_plotly_express/interactive_figures
 interactive_figures
+
+settings.json
